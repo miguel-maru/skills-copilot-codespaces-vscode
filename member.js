@@ -1,4 +1,4 @@
-function skillsMmeber() {
+function skillsMember() {
   return {
     name: 'member',
     skills: ['HTML', 'CSS', 'JAVASCRIPT', 'REACT'],
